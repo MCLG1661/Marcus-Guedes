@@ -1,6 +1,6 @@
 ## Olá / Hi There / Hola / Salut / Ciao 👋
 ## Meu nome é Marcus Guedes / My Name is Marcus Guedes / Mi Nombre es Marcus Guedes / Je M'Appelle Marcus Guedes / Mi Chiamo Marcus Guedes
-## Bem Vindos Ao Meu Perfil GitHub / Welcome To My GitHub profile / Bienvenido A Mi Perfil de GitHub / Bienvenue Sur Mon Profil GitHub / Benvenuti Nel Mio Profilo GitHub
+## Bem Vindos Ao Meu Perfil GitHub / Welcome To My GitHub Profile / Bienvenido A Mi Perfil de GitHub / Bienvenue Sur Mon Profil GitHub / Benvenuti Nel Mio Profilo GitHub
 **marcus guedes/marcusguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on : Marketing - Gestão de Pessoas e Projetos - Organização/Operação de Eventos e como DJ ...
